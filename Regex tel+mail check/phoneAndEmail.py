@@ -12,7 +12,6 @@ phoneRegex = re.compile(r'''
 ((\d\d)|(\(\d\d\))|(\d\d\d)|(\(\d\d\d\))|(\d\d\d\d)|(\(\d\d\d\d\)))? 
 
 
-
 # spatie of streepje (optioneel)
 
 (\s|-)?
@@ -35,6 +34,7 @@ emailRegex = re.compile(r'''
 
 ''', re.VERBOSE)
 
+# Later afmaken
 
 # Get the text off the clipboard
 text = pyperclip.paste()
