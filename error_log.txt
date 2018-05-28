@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<pyshell#8>", line 2, in <module>
+Exception: dit is error msg
+Traceback (most recent call last):
+  File "<pyshell#13>", line 2, in <module>
+Exception: dit is error msg
