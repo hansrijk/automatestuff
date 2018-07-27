@@ -5,3 +5,276 @@
 1527530164000	Marionette	INFO	Listening on port 40460
 1527530164062	Marionette	WARN	TLS certificate errors will be ignored for this session
 1527530164143	Marionette	DEBUG	Register listener.js for window 2147483649
+1527530343960	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1527530344854	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1527530344856	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1527530344856	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1527530344912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530372552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=dnsNotFound&u=http%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530372937	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=dnsNotFound&u=http%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530372938	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=dnsNotFound&u=http%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530372939	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=dnsNotFound&u=http%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530372959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=https%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530404112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=dnsNotFound&u=https%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530404741	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=dnsNotFound&u=https%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530404741	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=dnsNotFound&u=https%3A//automatetherboringstuff.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20automatetherboringstuff.com."
+1527530404751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://automatetheboringstuff.com/"
+1527530406135	Marionette	DEBUG	Received DOM event "pageshow" for "https://automatetheboringstuff.com/"
+1527530638855	Marionette	DEBUG	Received DOM event "beforeunload" for "https://automatetheboringstuff.com/"
+1527530638902	Marionette	DEBUG	Received DOM event "pagehide" for "https://automatetheboringstuff.com/"
+1527530638902	Marionette	DEBUG	Received DOM event "unload" for "https://automatetheboringstuff.com/"
+1527530638926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://automatetheboringstuff.com/chapter0/"
+1527530638949	Marionette	DEBUG	Received DOM event "pageshow" for "https://automatetheboringstuff.com/chapter0/"
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+27144
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1527530853205	geckodriver	INFO	geckodriver 0.20.1
+1527530853212	geckodriver	INFO	Listening on 127.0.0.1:44122
+1527530854401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NIPamQwUImFB"
+
+(firefox:32149): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+1527530859809	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:32720): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+1527530867429	Marionette	INFO	Listening on port 37236
+1527530867481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527530867585	Marionette	DEBUG	Register listener.js for window 2147483649
+1527530878720	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1527530879303	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1527530879303	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1527530879312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://automatetheboringstuff.com/"
+1527530880200	Marionette	DEBUG	Received DOM event "pageshow" for "https://automatetheboringstuff.com/"
+1527530967028	Marionette	DEBUG	Received DOM event "beforeunload" for "https://automatetheboringstuff.com/"
+1527530967606	Marionette	DEBUG	Received DOM event "pagehide" for "https://automatetheboringstuff.com/"
+1527530967606	Marionette	DEBUG	Received DOM event "unload" for "https://automatetheboringstuff.com/"
+1527530967828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://automatetheboringstuff.com/chapter0/"
+1527530968467	Marionette	DEBUG	Received DOM event "pageshow" for "https://automatetheboringstuff.com/chapter0/"
+1527531079444	Marionette	DEBUG	Received DOM event "beforeunload" for "https://automatetheboringstuff.com/chapter0/"
+1527531079779	Marionette	DEBUG	Received DOM event "pagehide" for "https://automatetheboringstuff.com/chapter0/"
+1527531079780	Marionette	DEBUG	Received DOM event "unload" for "https://automatetheboringstuff.com/chapter0/"
+1527531082190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.marktplaats.nl/cookiewall/?target=https%3A%2F%2Fwww.marktplaats.nl%2F"
+1527531082367	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.marktplaats.nl/cookiewall/?target=https%3A%2F%2Fwww.marktplaats.nl%2F"
+1527531089553	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.marktplaats.nl/"
+1527531089791	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.marktplaats.nl/"
+1527531089791	Marionette	DEBUG	Received DOM event "unload" for "https://www.marktplaats.nl/"
+1527531089940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1527531089940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1527531089941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1527531090122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.marktplaats.nl/"
+1527531091152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1527531091152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1527531091607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1527531091607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1527531095021	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.marktplaats.nl/"
+1527531155960	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.marktplaats.nl/"
+1527531156572	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.marktplaats.nl/"
+1527531156580	Marionette	DEBUG	Received DOM event "unload" for "https://www.marktplaats.nl/"
+1527531157041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.marktplaats.nl/"
+1527531157172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1527531157173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1527531157173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1527531157174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1527531157174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1527531157174	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1527531157175	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1527531157176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1527531157176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1527531157176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1527531157177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1527531157177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1527531157177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1527531157178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1527531157178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1527531157178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1527531157179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1527531158793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1527531158794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1527531159287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1527531159290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1527531161284	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.marktplaats.nl/"
+1527531188402	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.marktplaats.nl/"
+1527531188854	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.marktplaats.nl/"
+1527531188862	Marionette	DEBUG	Received DOM event "unload" for "https://www.marktplaats.nl/"
+1527531189119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.marktplaats.nl/"
+1527531189234	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483775"
+1527531189235	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1527531189239	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1527531189239	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+1527531189240	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483769"
+1527531189240	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+1527531189241	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1527531189242	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483788"
+1527531189242	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1527531189243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483794"
+1527531189244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483771"
+1527531189244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1527531189245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1527531189245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483796"
+1527531189246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1527531190597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483805"
+1527531190597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483806"
+1527531191100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1527531193499	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.marktplaats.nl/"
+
+(/usr/lib/firefox/firefox:32720): Gtk-WARNING **: Error loading image 'file:///usr/share/themes/Mint-X/gtk-3.0/assets/checkbox-unchecked.png': Unrecognized image file format
+
+(/usr/lib/firefox/firefox:32720): Gtk-WARNING **: Error loading image 'file:///usr/share/themes/Mint-X/gtk-3.0/assets/radio-unselected.png': Unrecognized image file format
+
+(/usr/lib/firefox/firefox:32720): Gtk-WARNING **: Error loading image 'file:///usr/share/themes/Mint-X/gtk-3.0/assets/radio-selected.png': Unrecognized image file format
+1527531464683	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531464699	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531464712	Marionette	DEBUG	Received DOM event "unload" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531464952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483928"
+1527531464953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483925"
+1527531464953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483941"
+1527531464954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483946"
+1527531464954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483951"
+1527531464954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483937"
+1527531464955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483896"
+1527531464956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483861"
+1527531464956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483939"
+1527531464957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483945"
+1527531464957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483949"
+1527531464958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483932"
+1527531464958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483876"
+1527531464958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483857"
+1527531464959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483874"
+1527531464959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483859"
+1527531464959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483849"
+1527531464960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483872"
+1527531464960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483889"
+1527531464960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483900"
+1527531464961	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483917"
+1527531465170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.marktplaats.nl/"
+1527531466335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483956"
+1527531466336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483957"
+1527531466821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483958"
+1527531466825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483959"
+1527531467573	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.marktplaats.nl/"
+1527531484106	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.marktplaats.nl/"
+1527531484127	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.marktplaats.nl/"
+1527531484136	Marionette	DEBUG	Received DOM event "unload" for "https://www.marktplaats.nl/"
+1527531484480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531484620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483968"
+1527531484621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483970"
+1527531484621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483962"
+1527531484621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483973"
+1527531484622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483964"
+1527531484622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483954"
+1527531484622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483974"
+1527531484623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483977"
+1527531484623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483983"
+1527531484624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483979"
+1527531486313	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484003"
+1527531486438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484005"
+1527531486566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484007"
+1527531487221	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484015"
+1527531487221	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484016"
+1527531487222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484017"
+1527531487777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484018"
+1527531487782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484019"
+1527531487787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484020"
+1527531489331	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531495956	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531496494	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531496518	Marionette	DEBUG	Received DOM event "unload" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531497768	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484033"
+1527531497782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484046"
+1527531497783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484041"
+1527531497784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484049"
+1527531497784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484024"
+1527531497785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484035"
+1527531497785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484042"
+1527531497786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484053"
+1527531497787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484028"
+1527531497788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484001"
+1527531497789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483990"
+1527531497790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484034"
+1527531497791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484044"
+1527531497791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484050"
+1527531497792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484026"
+1527531497792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483999"
+1527531497793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483986"
+1527531497793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483997"
+1527531497794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483988"
+1527531497794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483995"
+1527531497795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484009"
+1527531497795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484012"
+1527531497796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484037"
+1527531497796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484055"
+1527531498236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531500694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484070"
+1527531500694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484071"
+1527531500694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484072"
+1527531502118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484073"
+1527531502136	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484074"
+1527531502138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484075"
+1527531502960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484111"
+1527531503348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484113"
+1527531503839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484116"
+1527531509633	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.marktplaats.nl/z.html?query=beamer&categoryId=0&postcode=&distance=0"
+1527531540187	geckodriver	INFO	geckodriver 0.20.1
+1527531540200	geckodriver	INFO	Listening on 127.0.0.1:51964
+1527531541243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DcnR2Cd6QXE8"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1527531564460	Marionette	INFO	Listening on port 37726
+1527531564595	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
