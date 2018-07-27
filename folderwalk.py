@@ -1,5 +1,6 @@
 import os
 
+#folderwalk voor allle linux files in test
 for folderName, subfolders, filenames in os.walk('/home/hans/test'):
     print('de folder heet '+folderName)
     print('de subfolders in '+folderName +' zijn; '+str(subfolders))
